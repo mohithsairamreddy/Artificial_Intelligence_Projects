@@ -1,2 +1,2 @@
 # Artificial_Intelligence_Projects
-Machine Learning , DeepLearning and DataScience Handson Files
+Machine Learning , Deep Learning and Datascience hands-on Files
